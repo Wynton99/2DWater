@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{78EA60FC-932F-DCCB-D85F-3DF5D924A79E}") = "2d water", "Assembly-CSharp.csproj", "{DCB44B6B-A22D-9427-52C2-3D651D585E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB44B6B-A22D-9427-52C2-3D651D585E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB44B6B-A22D-9427-52C2-3D651D585E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB44B6B-A22D-9427-52C2-3D651D585E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB44B6B-A22D-9427-52C2-3D651D585E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
